@@ -34,6 +34,6 @@ class MediBuddy(App):
 
 
 if __name__ == '__main__':
-    MediBudy().run()
+    MediBuddy().run()
 
 
